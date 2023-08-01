@@ -5,4 +5,4 @@ if x<5:
     if x%3 ==0:
         print(x)
 else:
-    print(x%2)
+    print('')
