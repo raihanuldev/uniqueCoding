@@ -1,7 +1,6 @@
 import cmath
 
 print("Question: ax**2 + bx + c = 0 ")
-
 a = int(input("A: "))
 b = int(input("b: "))
 c = int(input("c: "))
